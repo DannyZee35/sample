@@ -1,0 +1,12 @@
+.bg{
+    background-color: #FAFFFA;
+    padding: 50px;
+}
+
+.pointer{
+    cursor: pointer;
+}
+.bold{
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}

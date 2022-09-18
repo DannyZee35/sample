@@ -1,0 +1,21 @@
+.input-box{
+
+     
+    padding: 15px 50px;
+    width: 100%;
+}
+
+.newsCont{
+
+    background-image: url('../assets/bg.png');
+}
+.button5{
+    text-decoration: none;
+    color:  black;
+    background-color: #FEDD20;
+    padding: 15px 50px;
+    display: inline-block;
+    border-radius: 3px;
+  
+}
+ 

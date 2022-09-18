@@ -1,0 +1,32 @@
+
+
+.cont{
+    background-color: #FAFFFA;
+    margin-top: 200px;
+     
+  
+}
+
+h1{
+    font-weight: 700;
+}
+
+span{
+    color: #2F2F2F;
+    opacity: 55%;
+    display: inline-block;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: #60820E;
+    padding: 15px 50px;
+    display: inline-block;
+    border-radius: 3px;
+}
+
+.hero-img{
+    height: 400px;
+width: 500px;
+ }

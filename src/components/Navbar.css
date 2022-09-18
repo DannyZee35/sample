@@ -1,0 +1,39 @@
+.topBox{
+    height: 40px;
+    width: 100%;
+    background-color: #60820E;
+}
+
+.navbar{
+    background-color: black;
+    font-family: 'Rubik', sans-serif;
+font-weight: 400;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: black;
+    gap: 20px;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    color: green;
+ }
+
+ .icon-img{
+    height: 30px;
+    width: 30px;
+ }
+
+.anchor{
+    text-transform: uppercase;
+}
